@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is b in bike 
+=======
+This is b in car
+>>>>>>> car
